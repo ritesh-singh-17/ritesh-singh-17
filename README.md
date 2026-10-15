@@ -1,65 +1,126 @@
-# Hi there, I'm Ritesh Kumar Singh 👋
+# Ritesh Kumar Singh
 
-🎉 **Welcome to my GitHub!** 🎉
+**Software Engineer | Full-Stack Development | AI Solutions**
 
-I'm Ritesh, a **Full Stack Developer** 💻 with a passion for crafting elegant and efficient code. Whether it's building scalable web applications or solving complex algorithms, I love turning ideas into reality through code.
+Software Engineer with 3+ years of experience building scalable web applications, backend services, and enterprise software. Experienced in designing REST APIs, optimizing database performance, integrating payment and logistics providers, and developing AI-powered business solutions.
 
-##📲 Connect With Me
+- **Core Technologies:** React.js, Next.js, Node.js, Express.js, MySQL, MongoDB
+- **Specialization:** Full-Stack Engineering, Backend Architecture, API Integrations
+- **AI & ML:** Generative AI, LLM APIs, Prompt Engineering
+- **Achievement:** First Place — TCS AI Friday Hackathon 2025
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://ritesh-singh-17.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](http://www.linkedin.com/in/ritesh-kumar-singh-a202b71ba)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/ritesh-singh-17)
+---
 
-## 🚀 My Toolbox
+## Connect
 
-**Languages & Technologies:**
-- 💡 **Java**
-- 🌐 **HTML/CSS**
-- ⚙️ **JavaScript/TypeScript**
-- 💾 **SQL**
-- 🐘 **PHP** (familiar)
+---
 
-**Libraries & Frameworks:**
-- ⚛️ **React.js**, **Next.js**
-- 🌟 **Node.js**, **Express.js**
-- 🎨 **Material UI**, **Bootstrap**
-- ✨ **SASS/SCSS**
+## Technical Skills
 
-**Databases:**
-- 🗄️ **MySQL**
-- 🍃 **MongoDB**
+**Languages:** Java, JavaScript, TypeScript, SQL, PHP
 
-**Platforms & Tools:**
-- 🛠️ **Git/GitHub**
-- 🔧 **Postman**
-- 🛡️ **Passport.js**
+**Frontend:** React.js, Next.js, Tailwind CSS, Material UI, Bootstrap, Sass
 
-**Core Concepts:**
-- 🧠 **Data Structures**
-- 💽 **Database Management**
-- 🖥️ **Operating Systems**
-- 🚀 **Object-Oriented Programming**
-- 🌐 **Computer Networks**
+**Backend:** Node.js, Express.js, REST API Development
 
-## 🌟 Featured Projects
+**Databases:** MySQL, MongoDB, Redis
 
-### 💬 [Realtime Chat App](https://chat-app-374l.onrender.com/) | [Source Code](https://github.com/ritesh-singh-17/real-time-chat-app.git)
-A dynamic real-time chat application built with Socket.IO and a modern web stack.
+**AI & Machine Learning:** Generative AI, LLM Integration, Prompt Engineering, AI Application Development
 
-### ✍️ [BlogWeb](https://blogweb-gjnd.onrender.com/) | [Source Code](https://github.com/ritesh-singh-17/blogweb.git)
-A user-friendly platform for creating, editing, and managing blogs with ease.
+**Cloud & Tools:** AWS, Docker, Git, GitHub, Postman, CI/CD
 
-### 🛒 [E-Commerce Website](https://ritesh-singh-17.github.io/ecommercesite/) | [Source Code](https://github.com/ritesh-singh-17/ecommercesite)
-An e-commerce platform packed with features like product filtering, searching, and sorting.
+**Core Concepts:** Data Structures and Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 
-## 🏅 Achievements
-- 🥇 **AIR 1877** out of 1 lakh+ participants and **College Rank 3** in CodeKaze - Sep'23 by CodingNinjas.
-- 🧠 Solved **400+ problems** on GeeksforGeeks and **150+ problems** on LeetCode.
+---
 
-## 🤝 Let's Connect!
+## Featured Projects
 
-I'm always open to new opportunities, collaborations, or just a good chat about tech! Feel free to reach out:
+### 1. Multi-Vendor B2B & B2C E-Commerce Marketplace
 
-📧 **Email:** [singh.riteshkumar0633@gmail.com](mailto:singh.riteshkumar0633@gmail.com)
+**Technologies:** React.js, Next.js, Node.js, Express.js, MongoDB, MySQL
 
-🌟 Thanks for stopping by! Have a great day! 😊
+A multi-vendor commerce platform supporting international transactions, wholesale procurement, supplier management, and end-to-end order workflows.
+
+- Developed B2B and B2C workflows covering products, orders, sellers, and commissions.
+- Implemented seller onboarding, business verification, and document review workflows.
+- Built B2B request-for-quotation (RFQ), supplier comparison, and price negotiation workflows.
+- Integrated payment providers including Stripe, PayPal, and NMI.
+- Worked on a dedicated payment orchestration layer to separate payment processing from the core application backend.
+- Developed logistics integrations with DHL and EasyPost for shipping workflows and documentation.
+- Worked on warehouse management, goods-received verification, supplier payment adjustments, and accounting ERP workflows.
+- Integrated Bridge services for wallet and USD/USDC transfer functionality.
+
+### 2. AI-Powered Inventory Forecasting Agent
+
+**Technologies:** Python, LLM APIs, Generative AI
+
+An AI-powered inventory planning solution built to help retail shop owners and vendors make better restocking decisions.
+
+- Analyzed historical sales data across products and months.
+- Considered seasonal patterns and festival calendars when forecasting demand.
+- Incorporated population growth projections as an additional demand signal.
+- Generated SKU-level restocking recommendations to support inventory planning.
+
+**Achievement:** First Place — TCS AI Friday Hackathon, 2025.
+
+### 3. Employee Management System
+
+**Technologies:** React.js, Node.js, Express.js, MySQL
+
+An enterprise application supporting employee administration and HR workflows.
+
+- Developed reusable, role-based React components for administrators, managers, and employees.
+- Built REST APIs for attendance tracking and leave management.
+- Optimized MySQL queries for reporting and operational dashboards, improving data retrieval performance by 30–40%.
+- Collaborated with an engineering team using Agile/Scrum practices.
+
+### 4. College ERP & Academic Management System
+
+**Technologies:** React.js, Node.js, Express.js, MySQL
+
+A role-based academic management platform designed to streamline administrative and educational operations.
+
+- Implemented six functional modules covering admissions, attendance, results, timetables, fee collection, and faculty operations.
+- Supported role-specific workflows for administrators, faculty, and students.
+- Developed integrated frontend and backend functionality for academic operations.
+
+### 5. Loan Recovery & Borrower Management Platform
+
+**Technologies:** React.js, Node.js, Express.js, MySQL
+
+A workflow-driven platform for managing borrowers, repayments, and loan recovery operations.
+
+- Implemented role-based workflows for administrators, lenders, accountants, recovery agents, and customers.
+- Developed borrower tracking and repayment timeline functionality.
+- Supported automated SMS/email reminders and defaulter escalation workflows.
+- Built dedicated dashboards for field recovery operations.
+
+---
+
+## Professional Highlights
+
+- **TCS AI Friday Hackathon:** Secured first place by building an AI-powered inventory forecasting agent.
+- **Database Optimization:** Improved reporting query performance by 30–40% in an enterprise application.
+- **Full-Stack Engineering:** Delivered features across frontend, backend, databases, and third-party integrations.
+- **Problem Solving:** Solved 500+ problems on GeeksForGeeks and 200+ on LeetCode.
+
+---
+
+## Certifications
+
+- Claude Certified Architect – Foundations — Anthropic
+- Claude Certified Developer – Foundations — Anthropic
+- Generative AI — Udemy *(In Progress)*
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ritesh-singh-17&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-singh-17&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
+</p>
+
+---
+
+*Building reliable software systems, scalable backend architectures, and AI-powered solutions for real-world business problems.*
