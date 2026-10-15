@@ -1,4 +1,4 @@
-# Ritesh Kumar Singh
+# Ritesh Singh
 
 **Software Engineer | Full-Stack Development | AI Solutions**
 
