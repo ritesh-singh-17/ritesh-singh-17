@@ -7,7 +7,7 @@ Software Engineer with 3+ years of experience building scalable web applications
 - **Core Technologies:** React.js, Next.js, Node.js, Express.js, MySQL, MongoDB
 - **Specialization:** Full-Stack Engineering, Backend Architecture, API Integrations
 - **AI & ML:** Generative AI, LLM APIs, Prompt Engineering
-- **Achievement:** First Place — TCS AI Friday Hackathon 2025
+- **Achievement:** First Place — AI Hackathon 2025
 
 ---
 
@@ -61,7 +61,7 @@ An AI-powered inventory planning solution built to help retail shop owners and v
 - Incorporated population growth projections as an additional demand signal.
 - Generated SKU-level restocking recommendations to support inventory planning.
 
-**Achievement:** First Place — TCS AI Friday Hackathon, 2025.
+**Achievement:** First Place — AI Hackathon, 2025.
 
 ### 3. Employee Management System
 
@@ -99,7 +99,7 @@ A workflow-driven platform for managing borrowers, repayments, and loan recovery
 
 ## Professional Highlights
 
-- **TCS AI Friday Hackathon:** Secured first place by building an AI-powered inventory forecasting agent.
+- **AI Hackathon:** Secured first place by building an AI-powered inventory forecasting agent.
 - **Database Optimization:** Improved reporting query performance by 30–40% in an enterprise application.
 - **Full-Stack Engineering:** Delivered features across frontend, backend, databases, and third-party integrations.
 - **Problem Solving:** Solved 500+ problems on GeeksForGeeks and 200+ on LeetCode.
